@@ -1,7 +1,7 @@
 {
   "name": "sprite-colour",
   "version": "0.0.0",
-  "description": "colour greyscale sprites",
+  "description": "Create a colourized canvas from an existing canvas or image.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"

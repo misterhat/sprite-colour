@@ -1,5 +1,4 @@
 var colourize = require('./'),
-    process = require('process'),
     Canvas = require('canvas-browserify');
 
 var image = new Canvas.Image();
