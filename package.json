@@ -1,0 +1,28 @@
+{
+  "name": "sprite-colour",
+  "version": "0.0.0",
+  "description": "colour greyscale sprites",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterhat/sprite-colour"
+  },
+  "keywords": [
+    "colour",
+    "colourize",
+    "sprite",
+    "image"
+  ],
+  "author": "Mister Hat <misterhat144@gmail.com>",
+  "license": "LGPL-3+",
+  "bugs": {
+    "url": "https://github.com/misterhat/sprite-colour/issues"
+  },
+  "dependencies": {
+    "canvas-browserify": "^1.1.3",
+    "parse-color": "^1.0.0"
+  }
+}
