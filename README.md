@@ -8,7 +8,6 @@ Create a colourized canvas from an existing canvas or image.
 ## Example
 ```javascript
 var colourize = require('sprite-colour'),
-    process = require('process'),
     Canvas = require('canvas-browserify');
 
 var image = new Canvas.Image();
